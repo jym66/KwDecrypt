@@ -2,9 +2,9 @@ import java.util.Arrays;
 
 public final class b {
 
-    private static char[] f8944b = new char[64];
+    private static final char[] f8944b = new char[64];
 
-    private static byte[] f8945c = new byte[128];
+    private static final byte[] f8945c = new byte[128];
 
     static {
         char c2 = 'A';
