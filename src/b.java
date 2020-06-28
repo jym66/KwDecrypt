@@ -36,12 +36,9 @@ public final class b {
 
 
 
-    public static String a(byte[] bArr) {
-        return new String(a(bArr, bArr.length));
-    }
 
     public static char[] a(byte[] bArr, int i) {
-        return a(bArr, i, (String) null);
+        return a(bArr, i,  null);
     }
 
     public static char[] a(byte[] bArr, int i, String str) {
